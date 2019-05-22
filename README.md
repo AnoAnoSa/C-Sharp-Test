@@ -2,5 +2,5 @@
 
 monoを実行する方法
 ***
-``` mcs MonoTest.cs ```
-``` mono MonoTest.exe ```
+``` mcs MonoTest.cs ```　
+``` mono MonoTest.exe ```　
